@@ -6,4 +6,4 @@
 |---| ----- | -------- | ---------- |
 |41|FirstMissing Positive| [python](./FirstMissingPositive.py)|Medium|
 |42|Trapping Rain Water| [python](./TrappingRainWater.py)|Hard|
-|43|Multiply Strings| [python] (./MultiplyStrings.py)|Medium|
+|43|Multiply Strings| [python](./MultiplyStrings.py)|Medium|
