@@ -11,3 +11,4 @@
 |63|Unique Paths II| [python](./UniquePathsII.py)|Medium|
 |64|Minimum Path Sum| [python](./MinimumPathSum.py)|Medium|
 |66|Plus One| [python](./PlusOne.py)|Medium|
+|69|Sqrt(x)| [python](./Sqrt(x).py)|Easy|
