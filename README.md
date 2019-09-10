@@ -14,4 +14,7 @@
 |66|Plus One| [python](./PlusOne.py)|Medium|
 |69|Sqrt(x)| [python](./Sqrt(x).py)|Easy|
 |71|Simplify Path| [python](./SimplifyPath.py)|Medium|
+|96|Unique Binary Search Trees| [python](./UniqueBinarySearchTrees.py)|Medium|
+|97|InterleavingString| [python](./InterleavingString.py)|Hard|
+|98|Validate Binary Search Tree| [python](./ValidateBinarySearchTree.py)|Medium|
 |99|Recover Binary Search Tree| [python](./RecoverBinarySearchTree.py)|Hard|
