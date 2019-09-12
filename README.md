@@ -14,6 +14,9 @@
 |66|Plus One| [python](./PlusOne.py)|Medium|
 |69|Sqrt(x)| [python](./Sqrt(x).py)|Easy|
 |71|Simplify Path| [python](./SimplifyPath.py)|Medium|
+|89|Gray Code| [python](./GrayCode.py)|Medium|
+|92|Reverse Linked List II| [python](./ReverseLinkedListII.py)|Medium|
+|95|Unique Binary Search Trees II| [python](./UniqueBinarySearchTreesII.py)|Medium|
 |96|Unique Binary Search Trees| [python](./UniqueBinarySearchTrees.py)|Medium|
 |97|InterleavingString| [python](./InterleavingString.py)|Hard|
 |98|Validate Binary Search Tree| [python](./ValidateBinarySearchTree.py)|Medium|
