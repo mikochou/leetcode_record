@@ -13,7 +13,8 @@
 |64|Minimum Path Sum| [python](./MinimumPathSum.py)|Medium|
 |66|Plus One| [python](./PlusOne.py)|Medium|
 |69|Sqrt(x)| [python](./Sqrt(x).py)|Easy|
-|71|Simplify Path| [python](./SimplifyPath.py)|Medium|
+|71|Simplify Path| [python](./SimplifyPath.py)|Medium
+|86|Partition List| [python](./PartitionList.py)|Hard||
 |87|Scramble String| [python](./ScrambleString.py)|Hard|
 |88|Merge Sorted Array| [python](./MergeSortedArray.py)|Easy|
 |89|Gray Code| [python](./GrayCode.py)|Medium|
