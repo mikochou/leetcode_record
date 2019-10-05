@@ -20,11 +20,15 @@
 |88|Merge Sorted Array| [python](./MergeSortedArray.py)|Easy|
 |89|Gray Code| [python](./GrayCode.py)|Medium|
 |92|Reverse Linked List II| [python](./ReverseLinkedListII.py)|Medium|
+|93|Restore IP Addresses| [python](./RestoreIPAddresses.py)|Medium|
 |95|Unique Binary Search Trees II| [python](./UniqueBinarySearchTreesII.py)|Medium|
 |96|Unique Binary Search Trees| [python](./UniqueBinarySearchTrees.py)|Medium|
 |97|InterleavingString| [python](./InterleavingString.py)|Hard|
 |98|Validate Binary Search Tree| [python](./ValidateBinarySearchTree.py)|Medium|
 |99|Recover Binary Search Tree| [python](./RecoverBinarySearchTree.py)|Hard|
+|100|SameTree| [python](./SameTree.py)|Easy|
+|128|Longest Consecutive Sequence| [python](./LongestConsecutiveSequence.py)|Hard|
 |496|Next Greater Element I| [python](./NextGreaterElementI.py)|Easy|
 |503|Next Greater Element II| [python](./NextGreaterElementII.py)|Medium|
+|556|Next Greater Element III| [python](./NextGreaterElementIII.py)|Medium|
 |557|Brick Wall| [python](./BrickWall.py)|Medium|
