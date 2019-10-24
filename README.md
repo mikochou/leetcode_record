@@ -1,6 +1,7 @@
 # leetcode_record
-### language: python
+(python练习&从零开始写C++)
 ### 题解+代码
+#### Python
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -31,7 +32,11 @@
 |109|Convert Sorted List to Binary Search Tree| [python](./ConvertSortedListtoBinarySearchTree.py)|Medium|
 |124|Binary Tree Maximum Path Sum| [python](./BinaryTreeMaximumPathSum.py)|Hard|
 |128|Longest Consecutive Sequence| [python](./LongestConsecutiveSequence.py)|Hard|
+|138|Copy List with Random Pointer| [python](./CopyListwithRandomPointer.py)|Medium|
 |496|Next Greater Element I| [python](./NextGreaterElementI.py)|Easy|
 |503|Next Greater Element II| [python](./NextGreaterElementII.py)|Medium|
 |556|Next Greater Element III| [python](./NextGreaterElementIII.py)|Medium|
 |557|Brick Wall| [python](./BrickWall.py)|Medium|
+
+#### C++
+|1|Two Sum| [c++](./TwoSum.py)|Medium|
