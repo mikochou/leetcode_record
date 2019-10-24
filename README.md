@@ -41,4 +41,4 @@
 #### C++
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|Two Sum| [c++](./TwoSum.py)|Medium|
+|1|Two Sum| [c++](./TwoSum.py)||
