@@ -39,4 +39,6 @@
 |557|Brick Wall| [python](./BrickWall.py)|Medium|
 
 #### C++
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
 |1|Two Sum| [c++](./TwoSum.py)|Medium|
