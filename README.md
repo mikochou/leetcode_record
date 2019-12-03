@@ -1,5 +1,4 @@
 # leetcode_record
-(python练习&从零开始写C++)
 ### 题解+代码
 #### Python
 
