@@ -39,6 +39,7 @@
 |143|Reorder List| [python](./ReorderList.py)|Medium|
 |145|Binary Tree Postorder Traversal| [python](./BinaryTreePostorderTraversal.py)|Medium|
 |240|Search a 2D Matrix II| [python](./Searcha2DMatrixII.py)|Medium|
+|241|Different Ways to Add Parentheses| [python](./DifferentWaystoAddParentheses.py)|Medium|
 |496|Next Greater Element I| [python](./NextGreaterElementI.py)|Easy|
 |503|Next Greater Element II| [python](./NextGreaterElementII.py)|Medium|
 |556|Next Greater Element III| [python](./NextGreaterElementIII.py)|Medium|
